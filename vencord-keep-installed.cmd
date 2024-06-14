@@ -1,5 +1,5 @@
 @echo off
-cd C:\VencordUpdater
+cd C:\Users\%USERNAME%\VencordUpdater
 
 
 
