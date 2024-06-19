@@ -11,4 +11,4 @@ VencordInstallerCli.exe -branch stable -install
 VencordInstallerCli.exe -branch ptb -install-openasar
 VencordInstallerCli.exe -branch ptb -install
 
-start "" "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk"
+start "" "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord Canary.lnk"
